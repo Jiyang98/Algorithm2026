@@ -3,7 +3,8 @@
 
 [SelectionSorting](./homework/Selection_Sort3.pde)  
 
-<img width="692" height="559" alt="image" src="https://github.com/user-attachments/assets/f9da27d4-d3e4-48de-8235-a931635bbab1" />
+<img width="691" height="593" alt="image" src="https://github.com/user-attachments/assets/8b35ed3e-51e4-402c-882b-b57e3b358aeb" />
+
 
 [BubbleSorting]()  
 
