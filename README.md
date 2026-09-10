@@ -1,7 +1,7 @@
 # Algorithm2026
 ### Homework1
 
-[SelectionSorting](./homework/Selection_Sort.pde)
-[SelectionSorting](./homework/selection_sort2.pde)
+[SelectionSorting1](./homework/Selection_Sort.pde)
+[SelectionSorting2](./homework/selection_sort2.pde)
 ![Alt homework11]()
 
