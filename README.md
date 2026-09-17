@@ -1,4 +1,4 @@
-<img width="693" height="586" alt="image" src="https://github.com/user-attachments/assets/7e9c73a5-f1b8-4f4b-8c99-3774a78bfe08" /># Algorithm2026
+# Algorithm2026
 ### Homework1
 
 [SelectionSorting](./homework/Selection_Sort3.pde). 
