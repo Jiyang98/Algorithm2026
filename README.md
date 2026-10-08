@@ -1,4 +1,12 @@
 # Algorithm2026
+
+### Homework2
+[SortAnimation](./homework/SortAnimation.pde).  
+<img width="194" height="162" alt="Adobe Express - 화면 기록 2026-10-08 오전 9 59 36" src="https://github.com/user-attachments/assets/97894101-1a61-4baa-acd0-ce6990096a1b" />
+
+
+
+
 ### Homework1
 
 [SelectionSorting](./homework/Selection_Sort3.pde).  
