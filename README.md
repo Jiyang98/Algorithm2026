@@ -1,7 +1,7 @@
 # Algorithm2026
 
 ### Homework3
-[BinarySearchTree](.homework/BinarySearchTree.pde).  
+[BinarySearchTree](./homework/BinarySearchTree.pde).  
 <img width="3112" height="1272" alt="화면-기록-2026-10-15-오전-11 50 31" src="https://github.com/user-attachments/assets/dbc02a94-27f7-4f21-a827-d7e2116022f8" />
 
 
