@@ -2,7 +2,6 @@
 
 ### Homework3
 
-<img width="3112" height="1272" alt="화면-기록-2026-10-15-오전-11 38 51" src="https://github.com/user-attachments/assets/0fbb4822-8035-411d-b173-10f6ef9bd87a" />
 
 
 ### Homework2
