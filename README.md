@@ -1,7 +1,7 @@
 # Algorithm2026
 
 ### Homework4
-[BinarySearchTree](./homework/InfixPostfixConverter.pde).
+[InfixPostfixConverter](./homework/InfixPostfixConverter.pde).
 <img width="1322" height="545" alt="image" src="https://github.com/user-attachments/assets/b9040b2e-0fe8-40b8-8c84-033503b8e83a" />
 
 
