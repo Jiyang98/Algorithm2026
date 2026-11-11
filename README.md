@@ -1,5 +1,11 @@
 # Algorithm2026
 
+### Homework5
+[InfixPostfixConverter](./homework/PebblePlacement.pde).
+<img width="687" height="591" alt="image" src="https://github.com/user-attachments/assets/5931802f-c78d-469e-a694-2403434d5a8b" />
+
+
+
 ### Homework4
 [InfixPostfixConverter](./homework/InfixPostfixConverter.pde).
 <img width="1322" height="545" alt="image" src="https://github.com/user-attachments/assets/b9040b2e-0fe8-40b8-8c84-033503b8e83a" />
