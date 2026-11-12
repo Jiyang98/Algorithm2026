@@ -2,7 +2,10 @@
 
 ### Homework6
 [BFS and DFS for a graph](./homework/GraphSearch.pde).  
-<img width="687" height="591" alt="image" src="https://github.com/user-attachments/assets/5931802f-c78d-469e-a694-2403434d5a8b" />
+<img width="1460" height="523" alt="image" src="https://github.com/user-attachments/assets/60666430-cb9d-449c-ab5a-30c2681b6b65" />  
+<img width="1410" height="538" alt="image" src="https://github.com/user-attachments/assets/211109f4-cf00-4847-bd62-06e822a2eae3" />
+
+
 
 
 ### Homework5
