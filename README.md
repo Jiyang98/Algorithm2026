@@ -1,7 +1,12 @@
 # Algorithm2026
 
+### Homework6
+[BFS and DFS for a graph](./homework/GraphSearch.pde).  
+<img width="687" height="591" alt="image" src="https://github.com/user-attachments/assets/5931802f-c78d-469e-a694-2403434d5a8b" />
+
+
 ### Homework5
-[InfixPostfixConverter](./homework/PebblePlacement.pde).  
+[PebblePlacement](./homework/PebblePlacement.pde).  
 
 <img width="687" height="591" alt="image" src="https://github.com/user-attachments/assets/5931802f-c78d-469e-a694-2403434d5a8b" />
 
